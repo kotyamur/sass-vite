@@ -1,11 +1,11 @@
 {
-  "name": "sass-vite-template",
+  "name": "sass-vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/sass-vite-template/",
+    "build": "vite build --base=/sass-vite/",
     "preview": "vite preview"
   },
   "devDependencies": {
